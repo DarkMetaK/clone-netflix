@@ -1,0 +1,22 @@
+@media screen and (max-width: 720px){
+    .container{
+        display: flex;
+        flex-direction: column;
+    }
+    .botoes{
+        display: flex;
+        flex-direction: column;
+        width: 60%;
+        margin-bottom: 3%;
+    }
+    .botoes button{
+        margin-top: 1.5%;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .principal{
+        background: linear-gradient(to right, rgba(0,0,0,.50), rgba(0,0,0,.50), rgba(0,0,0,.0)100%),url(../img/panico2.jpg);
+        background-size: cover;
+    }
+}
