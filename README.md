@@ -1,6 +1,6 @@
 # Netflix-Clone
 
-Esse projeto, consiste na construção de uma página que tem como inpiração, a página principal da Netflix.
+Esse projeto consiste no desenvolvimento de uma página que tem como inpiração, a página principal da Netflix.
 
 
 O seu nome, "Horrorflix", é uma alusão a plataforma e também refere-se ao conteúdo apresentado, que é constituido somente por filmes de terror :scream:
