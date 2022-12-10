@@ -1,9 +1,25 @@
-# Netflix-Clone
+<h1 align="center">Clone Netflix</h1>
 
-Esse projeto consiste no desenvolvimento de uma página que tem como inpiração, a página principal da Netflix.
+## :memo: Descrição
+Desenvolvimento de um site com objetivo de replicar a interface principal da Netflix. O site 'HorrorFlix' faz alusão a plataforma original, ao mesmo tempo que destaca o foco do seu catalógo, que são filmes de terror :scream:
 
+## :wrench: Tecnologias utilizadas
+* HTML;
+* CSS;
+* JQuery;
 
-O seu nome, "Horrorflix", é uma alusão a plataforma e também refere-se ao conteúdo apresentado, que é constituido somente por filmes de terror :scream:
+## :handshake: Colaboradores
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DarkMetaK">
+        <img src="https://avatars.githubusercontent.com/u/77026784?v=4" width="100px;" alt="Foto de DarkMetaK no GitHub"/><br>
+        <sub>
+          <b>DarkMetaK</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-- Esse é um desafio da Digital Innovation One
-- Foi utilizado HTML, CSS e Javascript (Através do Owl Carousel, um plugin de JQuery) 
+## :dart: Status do projeto
